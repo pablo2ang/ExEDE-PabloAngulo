@@ -20,6 +20,8 @@ public class Principal extends JFrame {
 
 	/**
 	 * Launch the application.
+	 * @author Pablo Angulo
+	 * @version Version 1, 2019
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
