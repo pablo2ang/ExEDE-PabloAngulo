@@ -28,6 +28,11 @@ import org.neodatis.odb.impl.core.query.values.ValuesCriteriaQuery;
 import javax.swing.border.CompoundBorder;
 
 @SuppressWarnings("serial")
+/**
+ *  esta clase se encarga de realizar consultas estadisticas de empleados y departamentos, se realizan altas,bajas, modificaciones y consultas.
+ * @author 1dam
+ *
+ */
 public class Consultas extends JDialog implements ActionListener  {
 
 	private final JPanel contentPane;
